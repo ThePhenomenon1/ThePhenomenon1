@@ -25,7 +25,7 @@ Honorable mention to Bindi Chen for Machine Learning.
 
 Currently doing Patrick Loeber's epic 6-hour YouTube tutorial:- "Advanced Python."
 
-In the queue are Michal Jaworski and Tarek Ziade's 600-page magnum opus:- "Expert Python Programming."
+In the queue are Michal Jaworski and Tarek Ziade's 600-page magnum opus:- "Expert Python Programming 3."
 
 I am deploying my completed Django Application, probably on Henroku.
 
