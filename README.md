@@ -32,4 +32,4 @@ I am deploying my completed Django Application, probably on Heroku. It will be f
 As I look to gain invaluable programming workplace experience, I am targeting another 800 training coding hours by June 2022.
 Mostly building Projects.
 
-400 of those are scheduled for further Machine Learning specialization.
+400 of those hours are scheduled for further Machine Learning specialization.
