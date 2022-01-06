@@ -5,27 +5,27 @@
 Over 1 300 hours of computer program training - 167 days later - I am an intermediate Python coder.
 Mentored by my brother @TheGiwi, a 3D graphics designer who is himself studying C++, I have in mostly chronological order done:-
 
-(1) Brad Traversy's YouTube:  Python Course for Beginners
+(1) Brad Traversy's YouTube:-  "Python Course for Beginners"
 
-(2) Moshfegh Hamedani's epic 6-hour YouTube:- Python Course for Beginners
+(2) Moshfegh Hamedani's epic 6-hour YouTube:- "Python Course for Beginners"
 
-(3) Allen Downey's book:- How To Think Like a Computer Scientist 2
+(3) Allen Downey's book:- "How To Think Like a Computer Scientist 2"
 
-(4) Allen Downey & 3 others' book:- How To Think Like a Computer Scientist 3
+(4) Allen Downey & 3 others' book:- "How To Think Like a Computer Scientist 3"
 
-(5) Kylie Ying's YouTube:- 12 Beginner Python Projects 
+(5) Kylie Ying's YouTube:- "12 Beginner Python Projects" 
 
-(6) Moshfegh Hamedani's:- Django Tutorial for Beginners 
+(6) Moshfegh Hamedani's:- "Django Tutorial for Beginners" 
 
-(7) Moshfegh Hamedani's:- Git Tutorial for Beginners
+(7) Moshfegh Hamedani's:- "Git Tutorial for Beginners"
 
-(8) Al Sweirgat's 600-page magnum opus:- Automate The Boring Stuff 2
+(8) Al Sweirgat's 600-page magnum opus:- "Automate The Boring Stuff 2"
 
 Honorable mention to Bindi Chen for Machine Learning.
 
-Currently doing Patrick Loeber's epic 6-hour YouTube tutorial:- Advanced Python.
+Currently doing Patrick Loeber's epic 6-hour YouTube tutorial:- "Advanced Python."
 
-In the queue are Michal Jaworski and Tarek Ziade's 600-page magnum opus:- Expert Python Programming.
+In the queue are Michal Jaworski and Tarek Ziade's 600-page magnum opus:- "Expert Python Programming."
 
 I am deploying my completed Django Application, most probably on Henroku.
 
