@@ -22,5 +22,6 @@ In the queue are Michal Jaworski and Tarek Ziade's 600-page magnum opus: Expert 
 
 I am deploying my completed Django Application, most probably on Henroku.
 
-As I look to gain invaluable workplace experience, I am targeting another 800 training coding hours by mid 2022. 
+As I look to gain invaluable workplace experience, I am targeting another 800 training coding hours by mid 2022.
+
 400 of those are scheduled for Machine Learning scecialization.
