@@ -27,8 +27,9 @@ Currently doing Patrick Loeber's epic 6-hour YouTube tutorial:- "Advanced Python
 
 In the queue are Michal Jaworski and Tarek Ziade's 600-page magnum opus:- "Expert Python Programming."
 
-I am deploying my completed Django Application, most probably on Henroku.
+I am deploying my completed Django Application, probably on Henroku.
 
-As I look to gain invaluable workplace experience, I am targeting another 800 training coding hours by mid-2022.
+As I look to gain invaluable programming workplace experience, I am targeting another 800 training coding hours by June 2022.
+Mostly building Projects.
 
 400 of those are scheduled for Machine Learning specialization.
