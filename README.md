@@ -1,6 +1,6 @@
 # ThePhenomenon1
 
-6 months ago, 10th July 2021, I didn't know Python, just had a smattering of HTML.
+7 months ago, 10th July 2021, I didn't know Python, just had a smattering of HTML.
 
 Over 1 400 hours of computer program training - 182 days later - I am an intermediate Python coder.
 Mentored by my brother @TheGiwi, a 3D graphics designer who is himself studying C++, I have in mostly chronological order done:-
