@@ -2,7 +2,7 @@
 
 7 months ago, 10th July 2021, I didn't know Python, just had a smattering of HTML.
 
-Over 1 500 hours of computer program training - 189 days later - I am an intermediate Python coder.
+Over 1 500 hours of computer program training - 190 days later - I am an intermediate Python coder.
 Mentored by my brother @TheGiwi, a 3D graphics designer who is himself studying C++, I have in mostly chronological order done:-
 
 (1) Brad Traversy's YouTube:-  "Python Course for Beginners"
