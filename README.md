@@ -1,3 +1,4 @@
+![LinkedIn Python Skill Badge](https://user-images.githubusercontent.com/96743401/154258965-dc261437-a916-442b-aed4-0d6ea3e095c8.png)
 # ThePhenomenon1
 
 7 months ago, 10th July 2021, I didn't know Python, just had a smattering of HTML.
