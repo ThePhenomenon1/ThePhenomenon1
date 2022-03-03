@@ -3,7 +3,7 @@
 
 8 months ago, 10th July 2021, I didn't know Python, just had a smattering of HTML.
 
-Over 1 800 hours of computer program training - 224 days later - I am an Advanced Python coder.
+Over 1 900 hours of computer program training - 224 days later - I am an Advanced Python coder.
 Mentored by my brother @TheGiwi, a 3D graphics designer who is himself studying C++, I have in mostly chronological order done:-
 
 (1) Brad Traversy's YouTube:-  "Python Course for Beginners"
@@ -26,7 +26,7 @@ Mentored by my brother @TheGiwi, a 3D graphics designer who is himself studying 
 
 Honorable mentions to Tim Ruscica and Bindi Chen for Machine Learning.
 
-Currently doing Michal Jaworski and Tarek Ziade's 600-page magnum opus:- "Expert Python Programming."
+Currently doing Michal Jaworski and Tarek Ziade's 600-page magnum opus:- "Expert Python Programming 4."
 
 I am deploying my completed Django Application, probably on Heroku. It will be fire!
 
