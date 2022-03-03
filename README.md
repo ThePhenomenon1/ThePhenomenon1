@@ -26,7 +26,7 @@ Mentored by my brother @TheGiwi, a 3D graphics designer who is himself studying 
 
 Honorable mentions to Tim Ruscica and Bindi Chen for Machine Learning.
 
-Currently doing Michal Jaworski and Tarek Ziade's 600-page magnum opus:- "Expert Python Programming 3."
+Currently doing Michal Jaworski and Tarek Ziade's 600-page magnum opus:- "Expert Python Programming."
 
 I am deploying my completed Django Application, probably on Heroku. It will be fire!
 
