@@ -30,7 +30,7 @@ Currently doing Michal Jaworski and Tarek Ziade's 600-page magnum opus:- "Expert
 
 I am deploying my completed Django Application, probably on Heroku. It will be fire!
 
-As I look to gain invaluable programming workplace experience, I am targeting another 400 training coding hours by June 2022.
+As I look to gain invaluable programming workplace experience, I am targeting another 300 training coding hours by June 2022.
 Mostly building Projects.
 
-350 of those hours are scheduled for further Machine Learning specialization.
+250 of those hours are scheduled for further Machine Learning specialization.
