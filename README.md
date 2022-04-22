@@ -35,4 +35,4 @@ Mostly building Projects.
 
 200 of those hours are scheduled for further Machine Learning specialization...
 
-But wait! A prestigious software company has come calling. Currently preparing for their Technical Tests!
+But wait! A prestigious, multinational software company has come calling. Currently preparing for their Technical Tests!
