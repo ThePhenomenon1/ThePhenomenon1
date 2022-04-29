@@ -3,7 +3,7 @@
 
 10 months ago, 10th July 2021, I didn't know Python, just had a smattering of HTML.
 
-Over 2 400 hours of computer program training - 280 days later - I am an Advanced Python coder.
+Over 2 400 hours of computer program training - 281 days later - I am an Advanced Python coder.
 Mentored by my brother @TheGiwi, a 3D graphics designer who is himself studying C++, I have in mostly chronological order done:-
 
 (1) Brad Traversy's YouTube:-  "Python Course for Beginners"
@@ -34,5 +34,3 @@ As I look to gain invaluable programming workplace experience, I am targeting an
 Mostly building Projects.
 
 200 of those hours are scheduled for further Machine Learning specialization...
-
-But wait! A prestigious, multinational software company has come calling. Currently preparing for their Technical Tests!
