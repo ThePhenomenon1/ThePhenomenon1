@@ -1,9 +1,9 @@
 ![LinkedIn Python Skill Badge](https://user-images.githubusercontent.com/96743401/154258965-dc261437-a916-442b-aed4-0d6ea3e095c8.png)
 # ThePhenomenon1
 
-10 months ago, 10th July 2021, I didn't know Python, just had a smattering of HTML.
+11 months ago, 10th July 2021, I didn't know Python, just had a smattering of HTML.
 
-Over 2 600 hours of computer program training - 296 days later - I am an Advanced Python coder.
+Over 2 600 hours of computer program training - 299 days later - I am an Advanced Python coder.
 Mentored by my brother @TheGiwi, a 3D graphics designer who is himself studying C++, I have in mostly chronological order done:-
 
 (1) Brad Traversy's YouTube:-  "Python Course for Beginners"
@@ -24,13 +24,12 @@ Mentored by my brother @TheGiwi, a 3D graphics designer who is himself studying 
 
 (9) Patrick Loeber's monster 6-hour YouTube tutorial:- "Advanced Python."
 
-Honorable mentions to Tim Ruscica and Bindi Chen for Machine Learning.
+(10) Michal Jaworski and Tarek Ziade's 600-page magnum opus:- "Expert Python Programming 4."
 
-Currently doing Michal Jaworski and Tarek Ziade's 600-page magnum opus:- "Expert Python Programming 4."
+Honorable mentions to Tim Ruscica (Tech with Tim) for Machine Learning.
 
 I am deploying my completed Django Application, probably on Heroku. It will be fire!
 
-As I look to gain invaluable programming workplace experience, I am targeting another 300 training coding hours by July 2022.
-Mostly building Projects.
+As I look to gain invaluable programming workplace experience, I am targeting another 200 training coding hours by July 2022.
 
-200 of those hours are scheduled for further Machine Learning specialization...
+Those hours are scheduled for further Machine Learning specialization, mostly building Projects.
