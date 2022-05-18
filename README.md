@@ -30,6 +30,6 @@ Honorable mentions to Tim Ruscica (Tech with Tim) for Machine Learning.
 
 I am deploying my completed Django Application, probably on Heroku. It will be fire!
 
-As I look to gain invaluable programming workplace experience, I am targeting another 200 training coding hours by July 2022.
+As I gain invaluable programming workplace experience, I am targeting another 200 training coding hours by July 2022.
 
 Those hours are scheduled for further Machine Learning specialization, mostly building Projects.
