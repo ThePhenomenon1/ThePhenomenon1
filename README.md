@@ -28,8 +28,6 @@ Mentored by my brother @TheGiwi, a 3D graphics designer who is himself studying 
 
 Honorable mentions to Tim Ruscica (Tech with Tim) for Machine Learning.
 
-I am deploying my completed Django Application, probably on Heroku. It will be fire!
+As I gain invaluable programming workplace experience, I am working on acquiring my	beginner machine learning certificate on the Kaggle platform under Professor Dan Becker.
 
-As I gain invaluable programming workplace experience, I am targeting another 200 training coding hours by July 2022.
-
-Those hours are scheduled for further Machine Learning specialization, mostly building Projects.
+I am also deploying my completed Django Application, probably on Heroku. It will be fire!
