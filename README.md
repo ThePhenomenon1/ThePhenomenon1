@@ -28,6 +28,6 @@ Mentored by my brother @TheGiwi, a 3D graphics designer who is himself studying 
 
 Honorable mentions to Tim Ruscica (Tech with Tim) for Machine Learning.
 
-As I gain invaluable programming workplace experience, I am working on acquiring my	introductory Machine Learning certificate on the Kaggle platform under Professor Dan Becker, Alexis Cook and Ryan Holbrook.
+As I gain invaluable programming workplace experience, I am working on acquiring my	introductory Machine Learning certificate on the Kaggle platform under Professor Dan Becker.
 
 I am also deploying my completed Django Application, probably on Heroku. It will be fire!
