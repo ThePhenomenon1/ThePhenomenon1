@@ -26,7 +26,7 @@ Mentored by my brother @TheGiwi, a 3D graphics designer who is himself studying 
 
 (10) Michal Jaworski and Tarek Ziade's 600-page magnum opus:- "Expert Python Programming 4."
 
-Honorable mentions to Tim Ruscica (Tech with Tim) for Machine Learning.
+Honorable mention to Tim Ruscica (Tech with Tim) for Machine Learning.
 
 As I gain invaluable programming workplace experience, I am working on acquiring my	introductory Machine Learning certificate on the Kaggle platform under Professor Dan Becker.
 
