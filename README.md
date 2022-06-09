@@ -26,8 +26,8 @@ Mentored by my brother @TheGiwi, a 3D graphics designer who is himself studying 
 
 (10) Michal Jaworski and Tarek Ziade's 600-page magnum opus:- "Expert Python Programming 4."
 
-Honorable mention to Tim Ruscica (Tech with Tim) for Machine Learning.
+I have acquired Intro to Machine Learning Certificate under Professor Dan Becker.
 
-As I gain invaluable programming workplace experience, I am working on acquiring my	introductory Machine Learning certificate on the Kaggle platform under Professor Dan Becker.
+As I gain invaluable programming workplace experience, I am working on acquiring my	intermediate Machine Learning certificate on the Kaggle platform under Alexis Cook.
 
 I am also deploying my completed Django Application, probably on Heroku. It will be fire!
