@@ -28,6 +28,6 @@ Mentored by my brother @TheGiwi, a 3D graphics designer who is himself studying 
 
 I have acquired Intro to Machine Learning Certificate under Professor Dan Becker.
 
-As I gain invaluable programming workplace experience, I am in midst of my intermediate Machine Learning certificate on the Kaggle platform under Alexis Cook.
+As I gain invaluable programming workplace experience, I am in midst of my intermediate Machine Learning course on the Kaggle platform under Alexis Cook.
 
 I am also deploying my completed Django Application, probably on Heroku. It will be fire!
