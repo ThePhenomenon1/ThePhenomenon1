@@ -30,4 +30,4 @@ I have acquired Intermediate Machine Learning Certificate on the Kaggle platform
 
 As I gain invaluable programming workplace experience, I begin my OpenCV (Open Source Computer Vision Library) journey.
 
-I am also deploying my Django Application, probably on Heroku. It will be fire!
+I am also deploying my Django Application, on Heroku. It will be fire!
