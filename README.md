@@ -26,8 +26,8 @@ Mentored by my brother @TheGiwi, a 3D graphics designer who is himself studying 
 
 (10) Michal Jaworski and Tarek Ziade's 600-page magnum opus:- "Expert Python Programming 4."
 
-I have acquired Intro to Machine Learning Certificate under Professor Dan Becker.
+I have acquired Intermediate Machine Learning Certificate on the Kaggle platform under Alexis Cook.
 
-As I gain invaluable programming workplace experience, I am in midst of my intermediate Machine Learning course on the Kaggle platform under Alexis Cook.
+As I gain invaluable programming workplace experience, I begin my OpenCV (Open Source Computer Vision Library) journey.
 
 I am also deploying my completed Django Application, probably on Heroku. It will be fire!
