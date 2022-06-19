@@ -28,6 +28,6 @@ Mentored by my brother @TheGiwi, a 3D graphics designer who is himself studying 
 
 I have acquired Intermediate Machine Learning Certificate on the Kaggle platform under Alexis Cook.
 
-As I gain invaluable programming workplace experience, I begin my OpenCV (Open Source Computer Vision Library) journey.
+As I gain invaluable programming workplace experience, I begin my OpenCV (Open Source Computer Vision) journey.
 
 I am also deploying my Django Application, on Heroku. It will be fire!
