@@ -1,7 +1,7 @@
 ![LinkedIn Python Skill Badge](https://user-images.githubusercontent.com/96743401/154258965-dc261437-a916-442b-aed4-0d6ea3e095c8.png)
 # ThePhenomenon1
 
-13 months ago, 15th July 2021, I didn't know Python, just had a smattering of HTML.
+14 months ago, 15th July 2021, I didn't know Python, just had a smattering of HTML.
 
 Over 3 300 hours of computer program training - 392 days later - I am an Advanced Python coder.
 Mentored by my brother @TheGiwi, a 3D graphics designer who is himself studying C++, I have in mostly chronological order done:-
