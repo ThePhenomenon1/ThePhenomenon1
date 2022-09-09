@@ -26,6 +26,8 @@ Mentored by my brother @TheGiwi, a 3D graphics designer who is himself studying 
 
 (10) Michal Jaworski and Tarek Ziade's 600-page magnum opus:- "Expert Python Programming 4."
 
+(11) Justin Mitchell's 7-hour blockbuster on building Django REST APIs.
+
 I have acquired Intermediate Machine Learning Certificate on the Kaggle platform under Alexis Cook.
 
 As I gain invaluable programming workplace experience, I begin my OpenCV (Open Source Computer Vision) journey.
