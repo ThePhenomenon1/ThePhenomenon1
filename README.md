@@ -3,7 +3,7 @@
 
 15 months ago, 15th July 2021, I didn't know Python, just had a smattering of HTML.
 
-Over 3 600 hours of computer program training - 421 days later - I am an Advanced Python coder.
+Over 3 600 hours of computer program training - 422 days later - I am an Advanced Python coder.
 Mentored by my brother @TheGiwi, a 3D graphics designer who is himself studying C++, I have in mostly chronological order done:-
 
 (1) Moshfegh Hamedani's epic 6-hour YouTube:- "Python Course for Beginners"
@@ -24,7 +24,7 @@ Mentored by my brother @TheGiwi, a 3D graphics designer who is himself studying 
 
 (9) Max Goodridge's 62-video exploration of the Django Framework.
 
-(10) Justin Mitchell's 7-hour blockbuster on building Django REST APIs.
+(10) Justin Mitchel's 7-hour blockbuster on building Django REST APIs.
 
 I have acquired Intermediate Machine Learning Certificate on the Kaggle platform under Alexis Cook.
 
