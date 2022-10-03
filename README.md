@@ -20,7 +20,7 @@ Conda,
 Selenium,
 Insomnia,
 Algolia,
-Git
+Git.
 
 I have also acquired Intermediate Machine Learning Certificate on the Kaggle platform under Alexis Cook. I begin my OpenCV (Open Source Computer Vision) journey.
 
