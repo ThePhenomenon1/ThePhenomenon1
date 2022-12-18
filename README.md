@@ -5,7 +5,7 @@
 Over 4 300 hours of computer programming - 514 days later - I am an Advanced Python coder. 
 
 I have deployed my multi-tier Django Application, on the powerful cloud platform Railway.App. 
-My Application is an Ecommerce / Superhero / Django REST Framework API. The API is powered by AWS and the PostgreSQL database.
+My Application is an Ecommerce / Superhero / Django REST Framework API. This Ecommerce API is powered by AWS and the PostgreSQL database.
 It has been test-driven by the Fast API client Insomnia.
 
 This backend web application's link is:-
