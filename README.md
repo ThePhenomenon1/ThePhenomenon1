@@ -12,7 +12,8 @@ It has been test-driven by the Fast API client Insomnia.
 
 This backend web application's link is:-
 
-https://pizzasuperherodeliveryapi-production.up.railway.app
+https://pizzadeliverysuperheroapi-production.up.railway.app
+
 
 My tech stack includes:-
 
