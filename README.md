@@ -16,7 +16,7 @@ https://pizzadeliverysuperheroapi-production.up.railway.app
 
 And adding my first coded ecommerce .COM
 
-https://www.bon-evani.com/
+https://www.bon-evani.com
 
 
 My tech stack includes:-
