@@ -26,6 +26,7 @@ My tech stack includes:-
 Django REST_Framework,
 AWS,
 Sklearn,
+Azure,
 Conda,
 Selenium,
 Insomnia,
