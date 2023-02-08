@@ -2,7 +2,7 @@
 # ThePhenomenon1
 
 19 months ago, 15th July 2021, I didn't know Python, just had a smattering of HTML.
-Over 4 700 hours of computer programming - 566 days later - I am an Advanced Python programmer. 
+Over 4 800 hours of computer programming - 566 days later - I am an Advanced Python programmer. 
 
 I have deployed my multi-tier Django Application, on the powerful cloud platform Railway.App. 
 My Application is an Ecommerce / Superhero / Django REST Framework API.
@@ -14,7 +14,7 @@ This backend web application's link is:-
 
 https://pizzadeliverysuperheroapi-production.up.railway.app
 
-And adding my first enterprise ecommerce .COM
+And adding an enterprise ecommerce .COM
 
 This is a real-World fashionable Boutique built with PostgreSQL as database. Shopping Cart functionality being coded in realtime! Powered by Amazon Web Services:-
 
