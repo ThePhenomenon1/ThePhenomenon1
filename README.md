@@ -1,8 +1,8 @@
 ![LinkedIn Python Skill Badge](https://user-images.githubusercontent.com/96743401/154258965-dc261437-a916-442b-aed4-0d6ea3e095c8.png)
 # ThePhenomenon1
 
-20 months ago, 15th July 2021, I didn't know Python, just had a smattering of HTML.
-Over 5 100 hours of computer programming - 600 days later - I am an Advanced Python programmer. 
+21 months ago, 15th July 2021, I didn't know Python, just had a smattering of HTML.
+Over 5 100 hours of computer programming - 601 days later - I am an Advanced Python programmer. 
 
 I have deployed my multi-tier Django Application, on the powerful cloud platform Railway.App. 
 My Application is an Ecommerce / Superhero / Django REST Framework API.
