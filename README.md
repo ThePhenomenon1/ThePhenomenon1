@@ -14,9 +14,10 @@ This backend web application's link is:-
 
 https://pizzadeliverysuperheroapi-production.up.railway.app
 
-And adding an enterprise ecommerce .COM
+And presenting an enterprise ecommerce .COM
 
-This is a real-World fashionable Boutique built with PostgreSQL as database. Shopping Cart functionality and Third-Party Payment integration being coded in realtime! Powered by Amazon Web Services:-
+This is a real-World fashionable Boutique built with PostgreSQL as database. It features Shopping Cart functionality. 
+Third-Party Payment integration being coded in realtime! Powered by Amazon Web Services:-
 
 https://www.bon-evani.com
 
