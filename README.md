@@ -2,26 +2,22 @@
 # ThePhenomenon1
 
 21 months ago, 15th July 2021, I didn't know Python, just had a smattering of HTML.
-Over 5 100 hours of computer programming - 606 days later - I am an Advanced Python programmer. 
+Over 5 100 hours of computer programming - 606 days later - I am an Advanced Python programmer.
 
 I have deployed my multi-tier Django Application, on the powerful cloud platform Railway.App. 
-My Application is an Ecommerce / Superhero / Django REST Framework API.
+This is a real-World fashionable Boutique built with a PostgreSQL database. It features SHOPPING CART functionality.
+Third-Party PAYMENT API integration being coded in realtime! Powered by Amazon Web Services:-
 
-This Ecommerce API is powered by AWS and the PostgreSQL database.
-It has been test-driven by the Fast API client Insomnia.
-
-This backend web application's link is:-
-
-https://pizzadeliverysuperheroapi-production.up.railway.app
-
-And presenting an enterprise ecommerce .COM
-
-This is a real-World fashionable Boutique built with PostgreSQL as database. It features Shopping Cart functionality.
-
-Third-Party Payment API integration being coded in realtime! Powered by Amazon Web Services:-
+The link to this enterprise ecommerce .COM:-
 
 https://www.bon-evani.com
 
+
+My 2nd Application is an Ecommerce / Superhero / Django REST Framework API. 
+This Ecommerce API is powered by AWS and a PostgreSQL database. It has been test-driven by the Fast API client Insomnia.
+This backend web application's link is:-
+
+https://pizzadeliverysuperheroapi-production.up.railway.app
 
 My tech stack includes:-
 
