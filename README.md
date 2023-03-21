@@ -2,7 +2,7 @@
 # ThePhenomenon1
 
 21 months ago, 15th July 2021, I didn't know Python, just had a smattering of HTML.
-Over 5 100 hours of computer programming - 606 days later - I am an Advanced Python programmer.
+Over 5 100 hours of computer programming - 607 days later - I am an Advanced Python programmer.
 
 I have deployed my multi-tier Django Application, on the powerful cloud platform Railway.App. 
 This is a real-World fashionable Boutique built with a PostgreSQL database. It features SHOPPING CART functionality.
