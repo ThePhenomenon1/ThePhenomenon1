@@ -6,7 +6,7 @@ Over 5 300 hours of computer programming - 627 days later - I am an advanced Pyt
 
 I have deployed my multi-tier Django Application, on the powerful cloud platform Railway.App. 
 This is a real-World Boutique built with a PostgreSQL database. It features SHOPPING CART and EMAIL AUTHENTICATION functionality.
-It boasts third-Party PAYMENT API integration(Paypal, Visa, Major crefit cards). Powered by Amazon Web Services.
+It boasts third-Party PAYMENT API integration (Paypal, Visa, Major credit cards). Powered by Amazon Web Services.
 
 The link to this full stack enterprise ecommerce .COM:-
 
