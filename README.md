@@ -21,9 +21,10 @@ https://pizzadeliverysuperheroapi-production.up.railway.app
 
 My tech stack includes:-
 
-Django REST_Framework,
+PyTorch,
 AWS,
 Sklearn,
+Django REST_Framework,
 Azure,
 Conda,
 Selenium,
