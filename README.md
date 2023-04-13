@@ -1,8 +1,8 @@
 ![Phillip Edwin Mugisha - Intermediate Machine Learning](https://user-images.githubusercontent.com/96743401/228430592-a377e017-2ef0-4947-94cb-5f36ffd35e50.png)
 # ThePhenomenon1
 
-21 months ago, 15th July 2021, I didn't know Python, just had a smattering of HTML.
-Over 5 400 hours of computer programming - 630 days later - I am an advanced Python Programmer.
+22 months ago, 15th July 2021, I didn't know Python, just had a smattering of HTML.
+Over 5 400 hours of computer programming - 631 days later - I am an advanced Python Programmer.
 
 I have deployed my multi-tier Django Application, on the powerful cloud platform Railway.App. 
 This is a real-World Boutique built with a PostgreSQL database. It features SHOPPING CART and EMAIL AUTHENTICATION functionality.
