@@ -14,7 +14,7 @@ https://www.bon-evani.com
 
 
 My 2nd Application is an Ecommerce / Superhero / Django REST Framework API. 
-This Ecommerce API is powered by AWS and a Postgres database. It has been test-driven by the Fast API client Insomnia.
+This Ecommerce API is powered by AWS, Redis-Cache and a Postgres database. It has been test-driven by the Fast API client Insomnia.
 This backend web application's link is:-
 
 https://pizzadeliverysuperheroapi-production.up.railway.app
