@@ -22,6 +22,7 @@ https://pizzadeliverysuperheroapi-production.up.railway.app
 My tech stack includes:-
 
 PyTorch,
+NLP,
 Redis,
 Sklearn,
 AWS,
@@ -30,7 +31,6 @@ Django-Channels,
 Django REST_Framework,
 Conda,
 Selenium,
-Algolia,
 Git.
 
 I have also acquired Intermediate Machine Learning Certificate on the Kaggle platform under Alexis Cook. I begin my OpenCV (Open Source Computer Vision) journey.
