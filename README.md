@@ -2,7 +2,7 @@
 # ThePhenomenon1
 
 2 years ago, July 2021, I didn't know Python, just had a smattering of HTML.
-Over 6 300 hours of computer programming - 719 days later - I am an advanced Python Programmer.
+Over 6 300 hours of computer programming - 720 days later - I am an advanced Python Programmer.
 
 I have deployed my multi-tier Django Application, on the powerful cloud platform Railway.App. 
 This is a real-World Boutique built with a Postgres database and Redis Enterprise. It features SHOPPING CART and EMAIL AUTHENTICATION functionality.
@@ -34,6 +34,6 @@ Conda,
 Selenium,
 Git.
 
-I have also acquired Intermediate Machine Learning Certificate on the Kaggle platform under Alexis Cook. I begin my OpenCV (Open Source Computer Vision) journey.
+I have also acquired Intermediate Machine Learning Certificate on the Kaggle platform under Alexis Cook.
 
 Phillip E-M
