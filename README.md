@@ -12,7 +12,7 @@ The link to this full stack enterprise ecommerce .COM:-
 
 https://www.bon-evani.com
 
-My coded web application is featured in the National Caribbean newspaper, the Trinidad & Guardian:-
+My coded web application is featured in the National Caribbean newspaper, the Trinidad & Tobago Guardian:-
 
 https://classifieds.guardian.co.tt/classified/bon-evani-boutiques-listing-16651.aspx
 
