@@ -1,7 +1,7 @@
 ![Phillip Edwin Mugisha - Intermediate Machine Learning](https://user-images.githubusercontent.com/96743401/228430592-a377e017-2ef0-4947-94cb-5f36ffd35e50.png)
 # ThePhenomenon1
 
-2 years ago, July 2021, I didn't know Python, just had a smattering of HTML.
+2 years and 1 month ago, July 2021, I didn't know Python, just had a smattering of HTML.
 Over 6 400 hours of computer programming - 731 days later - I am an advanced Python Programmer.
 
 I have deployed my multi-tier Django Application, on the powerful cloud platform Railway.App. 
