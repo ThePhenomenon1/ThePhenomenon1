@@ -16,7 +16,7 @@ My coded web application is featured in the National Caribbean newspaper, the Tr
 
 https://classifieds.guardian.co.tt/classified/bon-evani-boutiques-listing-16651.aspx
 
-TWO CONTINENTS. Production grade code. Global Marketplace reach.
+TWO CONTINENTS. Production-grade code. Global Marketplace reach.
 
 My 2nd Application is an Ecommerce / Superhero / Django REST Framework API. 
 This Ecommerce API is powered by AWS, Redis-Cache and a Postgres database. It has been test-driven by the Fast API client Insomnia.
