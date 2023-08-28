@@ -11,7 +11,7 @@ This is a real-World Boutique built with a Postgres database and Redis Enterpris
 Third-Party PAYMENT API integration (Paypal, Visa, Major credit cards - Cyber secure SQL data wrangling!).
 
 <br>
-LIVE CHAT integration.
+REALTIME CHAT integration.
 
 <br>
 SHOPPING CART and CHECKOUT functionality.
