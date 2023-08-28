@@ -56,6 +56,6 @@ Conda,
 Selenium,
 Git.
 
-I have also acquired Intermediate Machine Learning Certificate on the Kaggle platform under Alexis Cook.
+I have also acquired Intermediate Machine Learning Certificate on the Kaggle platform.
 
 Phillip E-M
