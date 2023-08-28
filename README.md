@@ -7,7 +7,10 @@ Over 6 800 hours of computer programming - 767 days later - I am an advanced Pyt
 I have deployed my multi-tier Django Application, on the powerful Railway cloud platform. 
 This is a real-World Boutique built with a Postgres database and Redis Enterprise. Powered by Amazon Web Services. It features:-
 
+<br>
 Third-Party PAYMENT API integration (Paypal, Visa, Major credit cards - Cyber secure SQL data wrangling!).
+
+<br>
 LIVE CHAT integration.
 
 <br>
