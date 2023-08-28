@@ -9,6 +9,7 @@ This is a real-World Boutique built with a Postgres database and Redis Enterpris
 
 Third-Party PAYMENT API integration (Paypal, Visa, Major credit cards - Cyber secure SQL data wrangling!).
 
+<br>
 LIVE CHAT integration.
 
 <br>
@@ -23,7 +24,7 @@ CLIENT DASHBOARDS - realtime SQL visualization.
 <br>
 WHATSAPP API integration.
 
-\
+
 The link to this full stack enterprise ecommerce .COM:-
 
 https://www.bon-evani.com
