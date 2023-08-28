@@ -8,10 +8,15 @@ I have deployed my multi-tier Django Application, on the powerful Railway cloud 
 This is a real-World Boutique built with a Postgres database and Redis Enterprise. Powered by Amazon Web Services. It features:-
 
 Third-Party PAYMENT API integration (Paypal, Visa, Major credit cards - Cyber secure SQL data wrangling!).
+
 LIVE CHAT integration.
+
 SHOPPING CART and CHECKOUT functionality.
+
 EMAIL AUTHENTICATION functionality.
+
 CLIENT DASHBOARDS - realtime SQL visualization.
+
 WHATSAPP API integration.
 
 The link to this full stack enterprise ecommerce .COM:-
