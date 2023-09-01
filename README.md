@@ -1,4 +1,4 @@
-![Phillip Edwin Mugisha - Intermediate Machine Learning](https://user-images.githubusercontent.com/96743401/228430592-a377e017-2ef0-4947-94cb-5f36ffd35e50.png)
+![Phillip Edwin Mugisha - Intermediate Machine Learning]
 # ThePhenomenon1
 
 2 years and 2 months ago, July 2021, I didn't know Python, just had a smattering of HTML.
