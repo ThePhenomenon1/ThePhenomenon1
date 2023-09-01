@@ -1,4 +1,3 @@
-![Phillip Edwin Mugisha - Intermediate Machine Learning]
 # ThePhenomenon1
 
 2 years and 2 months ago, July 2021, I didn't know Python, just had a smattering of HTML.
