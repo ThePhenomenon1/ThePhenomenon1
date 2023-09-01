@@ -1,3 +1,5 @@
+![Screenshot 2023-08-29 at 19-44-29](https://github.com/ThePhenomenon1/ThePhenomenon1/assets/96743401/fa2cbc95-4b0b-4eba-8c54-59f9b96d01e8)
+
 # ThePhenomenon1
 
 2 years and 2 months ago, July 2021, I didn't know Python, just had a smattering of HTML.
