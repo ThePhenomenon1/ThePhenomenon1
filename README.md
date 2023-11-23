@@ -15,6 +15,9 @@ Third-Party PAYMENT API integration (Paypal, Visa, Major credit cards - Cyber se
 REALTIME CHAT integration.
 
 <br>
+SEARCH ENGINE OPTIMIZATION (SEO modeling)
+
+<br>
 SHOPPING CART and CHECKOUT functionality.
 
 <br>
