@@ -27,7 +27,7 @@ EMAIL AUTHENTICATION functionality.
 CLIENT DASHBOARDS - realtime SQL visualization.
 
 <br>
-ADMIN PANEL (Customer Management and SKUs).
+ADMIN PANEL (Customer Service Management and SKUs).
 
 <br>
 WHATSAPP API integration.
