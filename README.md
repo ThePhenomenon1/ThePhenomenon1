@@ -9,7 +9,7 @@ I have deployed my multi-tier Django Application, on the powerful Railway cloud 
 This is a real-World Boutique built with a Postgres database and Redis. Powered by Amazon Web Services. It features:-
 
 <br>
-WEB ANALYTICS (Business lead generation reports, driving online sales, raising brand awareness, User behaviour Analysis).
+WEB ANALYTICS (Business lead generation reports, driving online sales, raising brand awareness; User behaviour Analysis).
 
 <br>
 PAYMENT API integration (Paypal, Visa, Major credit cards - Cyber secure SQL data wrangling!).
