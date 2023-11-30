@@ -12,7 +12,7 @@ This is a real-World Boutique built with a Postgres database and Redis. Powered 
 WEB ANALYTICS (Business lead generation reports, driving online sales, raising brand awareness; User behaviour Analysis).
 
 <br>
-PAYMENT API integration (Paypal, Visa, Major credit cards - Cyber secure SQL data wrangling!).
+PAYMENT API (Paypal, Visa, Major credit cards - Cyber secure SQL data wrangling!).
 
 <br>
 REALTIME CHAT integration.
