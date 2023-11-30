@@ -27,7 +27,7 @@ AUTORESPONDER integration (Mailchimp, AI).
 SHOPPING CART and CHECKOUT functionality.
 
 <br>
-EMAIL AUTHENTICATION functionality.
+EMAIL AUTHENTICATION.
 
 <br>
 CLIENT DASHBOARDS - realtime SQL visualization.
