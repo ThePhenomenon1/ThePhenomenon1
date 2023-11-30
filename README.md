@@ -18,7 +18,10 @@ PAYMENT API integration (Paypal, Visa, Major credit cards - Cyber secure SQL dat
 REALTIME CHAT integration.
 
 <br>
-SEARCH ENGINE OPTIMIZATION (SEO modeling).
+SEARCH ENGINE OPTIMIZATION (SEO data modeling).
+
+<br>
+AUTORESPONDER integration (Mailchimp, AI).
 
 <br>
 SHOPPING CART and CHECKOUT functionality.
