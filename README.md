@@ -49,7 +49,7 @@ My coded web application has been featured in the National Caribbean newspaper, 
 TWO CONTINENTS. Production-grade code. Global Marketplace reach.
 
 My 2nd Application is a Django REST Framework Superhero API. 
-This Ecommerce API is powered by AWS, Redis-Cache and a Postgres database. It has been test-driven by the Fast API client Insomnia.
+This Ecommerce API is powered by AWS, Redis-Cache and a Postgres database. It has been test-driven by the FastAPI client Insomnia.
 This backend web application's link is:-
 
 https://pizzadeliverysuperheroapi-production.up.railway.app
