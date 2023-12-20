@@ -2,8 +2,8 @@
 
 # ThePhenomenon1
 
-2 years and 5 months ago, July 2021, I didn't know Python, just had a smattering of HTML.
-Over 7 900 hours of computer programming - 880 days later - I am an advanced Python Programmer.
+2 years and 6 months ago, July 2021, I didn't know Python, just had a smattering of HTML.
+Over 8 000 hours of computer programming - 881 days later - I am an advanced Python/Javascript Programmer.
 
 I have deployed my multi-tier Django Application, on the powerful Railway cloud platform. 
 This is a real-World Boutique built with a Postgres database and Redis. Powered by Amazon Web Services. It features:-
@@ -22,6 +22,9 @@ SEARCH ENGINE OPTIMIZATION (SEO data modeling).
 
 <br>
 AUTORESPONDER integration (Mailchimp, AI).
+
+<br>
+SPEED OPTIMIZATION.
 
 <br>
 SHOPPING CART and CHECKOUT functionality.
