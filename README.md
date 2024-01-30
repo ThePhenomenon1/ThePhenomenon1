@@ -39,6 +39,9 @@ CLIENT DASHBOARDS - realtime SQL visualization.
 ADMIN DASHBOARD (Customer Service Management and SKUs).
 
 <br>
+BLOG functionality.
+
+<br>
 WHATSAPP API integration.
 
 \
