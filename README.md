@@ -2,7 +2,7 @@
 
 # ThePhenomenon1
 
-2 years and 10 months ago, July 2021, I didn't know Python, just had a smattering of HTML.
+2 years and 11 months ago, July 2021, I didn't know Python, just had a smattering of HTML.
 Over 9 400 hours of computer programming - 1 031 days later - I am a Python/JavaScript Software Developer.
 
 I have deployed my multi-tier Django Application, on the powerful Railway cloud platform. 
