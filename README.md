@@ -3,7 +3,7 @@
 # ThePhenomenon1
 
 2 years and 11 months ago, July 2021, I didn't know Python, just had a smattering of HTML.
-Over 9 600 hours of computer programming - 1 047 days later - I am a Python/JavaScript Software Developer.
+Over 9 600 hours of computer programming - 1 048 days later - I am a Python/JavaScript Software Developer.
 
 I have deployed my multi-tier Django Application, on the powerful Railway cloud platform. 
 This is an ecommerce Boutique built with a Postgres database and Redis. Powered by AWS. It features:-
