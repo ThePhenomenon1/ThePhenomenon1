@@ -64,6 +64,7 @@ My tech stack includes:-
 
 PyTorch,
 NLP,
+NodeJS,
 Redis,
 Sklearn,
 AWS,
