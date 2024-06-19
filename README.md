@@ -6,7 +6,7 @@
 Over 9 700 hours of computer programming - 1 063 days later - I am a Python/JavaScript Fullstack Developer.
 
 I have deployed my multi-tier Django Application, on the powerful Railway cloud platform. 
-This is an ecommerce Boutique built with a Postgres database and Redis. Powered by AWS. It features:-
+This is an ecommerce Boutique built with Google Cloud Platform and a Postgres database. Powered by AWS. It features:-
 
 <br>
 WEB ANALYTICS (Business lead generation reports, driving online sales, raising brand awareness; User behaviour Analysis).
@@ -68,6 +68,7 @@ Node.js,
 Redis,
 Sklearn,
 AWS,
+GCP,
 Azure,
 WebSockets,
 Django-Channels,
