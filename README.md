@@ -63,15 +63,15 @@ My tech stack includes:-
 
 PyTorch,
 NLP,
+React,
 Node.js,
-Redis,
 Sklearn,
 AWS,
 GCP,
-Azure,
 WebSockets,
 Django-Channels,
 Django REST Framework,
+Django Ninja,
 Conda,
 Selenium,
 Git.
