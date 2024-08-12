@@ -62,7 +62,6 @@ https://pizzadeliverysuperheroapi-production.up.railway.app
 My tech stack includes:-
 
 PyTorch,
-NLP,
 React,
 Node.js,
 Sklearn,
