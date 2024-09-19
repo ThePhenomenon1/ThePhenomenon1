@@ -56,7 +56,7 @@ https://pizzadeliveryapi.up.railway.app/docs
 
 My tech stack includes:-
 
-PyTorch,
+Generative AI,
 React,
 Node.js,
 Sklearn,
