@@ -49,10 +49,6 @@ The link to this full stack enterprise ecommerce .COM:-
 
 https://www.bon-evani.com
 
-My coded web application has been featured in the National Caribbean newspaper, the Trinidad & Tobago Guardian.
-
-TWO CONTINENTS. Production-grade code. Global Marketplace reach.
-
 My 2nd Application is a REST Framework delivery API. 
 This Ecommerce API is powered by AWS, Redis-Cache and a Postgres database. It has been test-driven by the FastAPI client Insomnia.
 This backend web application's link is:-
