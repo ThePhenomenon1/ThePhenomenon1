@@ -42,7 +42,6 @@ BLOG functionality.
 
 <br>
 WHATSAPP API integration.
-
 \
 \
 The link to this full stack enterprise ecommerce .COM:-
@@ -72,5 +71,9 @@ Selenium,
 Git.
 
 I have also acquired Intermediate Machine Learning Certificate on the Kaggle platform.
+
+Experience: MANAGING DIRECTOR, CO-FOUNDER, RUSTEMERALD PRODUCTIONS
+•	Generative AI drama production (On course to launch a scintillating drama Series using Gen AI in what is one of the World's firsts!)
+
 
 Phillip E-M
