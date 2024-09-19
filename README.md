@@ -26,9 +26,6 @@ SEARCH ENGINE OPTIMIZATION (SEO data modeling).
 AUTORESPONDER integration (Mailchimp, AI).
 
 <br>
-SPEED OPTIMIZATION.
-
-<br>
 SHOPPING CART and CHECKOUT functionality.
 
 <br>
