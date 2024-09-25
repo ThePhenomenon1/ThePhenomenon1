@@ -8,7 +8,7 @@ I have deployed my multi-tier Django Application, on the powerful Railway cloud 
 This is an ecommerce Boutique built with Google Cloud Platform and a Postgres database. Powered by AWS. It features:-
 
 <br>
-EMAIL AUTHENTICATION (Django Allauth).
+* EMAIL AUTHENTICATION (Django Allauth).
 
 <br>
 WEB ANALYTICS (Business lead generation reports, driving online sales, raising brand awareness; User behaviour Analysis).
