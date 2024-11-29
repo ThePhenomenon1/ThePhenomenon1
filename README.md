@@ -42,13 +42,13 @@ This is an ecommerce Boutique built with Google Cloud Platform and a Postgres da
 
 \
 \
-The link to this full stack enterprise ecommerce .COM:-
+The link to this full-stack enterprise ecommerce .COM:-
 
 https://www.bon-evani.com
 
 My 2nd deployed Application is a React frontend that consumes a REST Framework API. 
 This Ecommerce API is powered by AWS, Redis-Cache and a Postgres database. It has been test-driven by the FastAPI client Insomnia.
-This backend web application's link is:-
+This full-stack web application's link is:-
 
 https://shop-front.up.railway.app
 
