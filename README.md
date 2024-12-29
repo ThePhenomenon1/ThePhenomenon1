@@ -11,7 +11,7 @@ This is an ecommerce Boutique built with Google Cloud Platform and a Postgres da
 * EMAIL AUTHENTICATION (Django Allauth).  &nbsp; -----------------  * WEB ANALYTICS (Business lead generation reports).
 
 <br>
-* PAYMENT API (Paypal, Visa, Major credit cards).  &nbsp; ------------   * REALTIME CHAT integration.
+* PAYMENT API (Paypal, Visa, Major credit cards).  &nbsp; -------------  * REALTIME CHAT integration.
 
 <br>
 * SEARCH ENGINE OPTIMIZATION (SEO data modeling).  &nbsp; -----  * AUTORESPONDER integration (Mailchimp, AI).
@@ -20,10 +20,10 @@ This is an ecommerce Boutique built with Google Cloud Platform and a Postgres da
 * SHOPPING CART and CHECKOUT functionality.
 
 <br>
-* CLIENT DASHBOARDS - realtime SQL visualization.  &nbsp; --------  * ADMIN DASHBOARD (Customer Service Management and SKUs).
+* CLIENT DASHBOARDS - realtime SQL visualization.  &nbsp; ----------  * ADMIN DASHBOARD (Customer Service Management and SKUs).
 
 <br>
-* BLOG functionality.  &nbsp;  ----------------------------------------  * WHATSAPP API integration.
+* BLOG functionality.  &nbsp;  ------------------------------------------  * WHATSAPP API integration.
 
 \
 \
