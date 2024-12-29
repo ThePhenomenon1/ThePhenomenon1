@@ -35,7 +35,7 @@ This is an ecommerce Boutique built with Google Cloud Platform and a Postgres da
 * ADMIN DASHBOARD (Customer Service Management and SKUs).
 
 <br>
-* BLOG functionality.                                                WHATSAPP API integration.
+* BLOG functionality.   &nbsp;  * WHATSAPP API integration.
 
 \
 \
