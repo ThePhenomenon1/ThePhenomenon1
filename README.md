@@ -20,10 +20,10 @@ This is an ecommerce Boutique built with Google Cloud Platform and a Postgres da
 * SHOPPING CART and CHECKOUT functionality.
 
 <br>
-* CLIENT DASHBOARDS - realtime SQL visualization.  &nbsp; ----------  * ADMIN DASHBOARD (Customer Service Management and SKUs).
+* CLIENT DASHBOARDS - realtime SQL visualization.  &nbsp; ---------  * ADMIN DASHBOARD (Customer Service Management and SKUs).
 
 <br>
-* BLOG functionality.  &nbsp;  ------------------------------------------  * WHATSAPP API integration.
+* BLOG functionality.  &nbsp;  -----------------------------------------  * WHATSAPP API integration.
 
 \
 \
