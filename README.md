@@ -8,7 +8,7 @@ I have deployed my multi-tier Django Application, on the powerful Railway cloud 
 This is an ecommerce Boutique built with Google Cloud Platform and a Postgres database. Powered by AWS. It features:-
 
 <br>
-* EMAIL AUTHENTICATION (Django Allauth).  &nbsp;  * WEB ANALYTICS (Business lead generation reports).
+* EMAIL AUTHENTICATION (Django Allauth).  &nbsp; ------ * WEB ANALYTICS (Business lead generation reports).
 
 <br>
 * PAYMENT API (Paypal, Visa, Major credit cards).  &nbsp;  * REALTIME CHAT integration.
@@ -23,7 +23,7 @@ This is an ecommerce Boutique built with Google Cloud Platform and a Postgres da
 * CLIENT DASHBOARDS - realtime SQL visualization.  &nbsp;  * ADMIN DASHBOARD (Customer Service Management and SKUs).
 
 <br>
-* BLOG functionality.    * WHATSAPP API integration.
+* BLOG functionality.  &nbsp;  * WHATSAPP API integration.
 
 \
 \
