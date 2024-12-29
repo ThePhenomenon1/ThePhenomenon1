@@ -44,6 +44,8 @@ https://github.com/ThePhenomenon1/kubernetes-mern.git
 My tech stack includes:-
 
 Generative AI,
+Docker,
+Kubernetes,
 React,
 Node.js,
 Sklearn,
