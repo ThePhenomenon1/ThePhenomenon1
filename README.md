@@ -37,7 +37,7 @@ This full-stack web application's link is:-
 
 https://shop-front.up.railway.app
 
-My MERN Dockerized application deployed using Kubernetes;orchestrated with Minikube:-
+My MERN Dockerized application deployed using Kubernetes and orchestrated with Minikube:-
 
 https://github.com/ThePhenomenon1/kubernetes-mern.git
 
