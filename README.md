@@ -40,7 +40,7 @@ The link to this full-stack enterprise ecommerce .COM:-
 https://www.bon-evani.com
 
 My 2nd deployed Application is also a React frontend that consumes a REST Framework API. 
-This Ecommerce API is powered by AWS, Redis-Cache and a Postgres database. It has been test-driven by the FastAPI client Insomnia.
+This Ecommerce API is powered by AWS, Redis-Cache and a Postgres database. Upgraded with NEXT.JS 15.
 This full-stack web application's link is:-
 
 https://shop-front.up.railway.app
@@ -55,6 +55,7 @@ Generative AI,
 Docker,
 Kubernetes,
 React,
+Next.js,
 Node.js,
 Sklearn,
 AWS,
