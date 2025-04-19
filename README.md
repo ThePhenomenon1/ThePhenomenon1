@@ -39,8 +39,8 @@ The link to this full-stack enterprise ecommerce .COM:-
 
 https://www.bon-evani.com
 
-My 2nd deployed Application is also a React frontend that consumes a REST Framework API. 
-This Ecommerce API is powered by AWS, Redis-Cache and PostgreSql. Upgraded with NEXT.JS 15 and Typescript.
+My 2nd deployed Application is a NEXT.JS frontend that consumes a REST Framework API. 
+This Ecommerce API is powered by Typescript, AWS, Redis-Cache and Postgres.
 This full-stack web application's link is:-
 
 https://next-djangobnbx.up.railway.app
