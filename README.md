@@ -4,7 +4,7 @@
 
 # ThePhenomenon1
 
-3 years and 10 months ago, July 2021, I didn't know Python. Over 12 800 hours of computer programming - 1 367 days later - I am a Python/JavaScript Full-Stack Developer.
+3 years and 10 months ago, July 2021, I didn't know Python. Over 12 800 hours of computer programming - 1 368 days later - I am a Python/JavaScript Full-Stack Developer.
 
 I have deployed my React/DRF Django Application, on the powerful Railway cloud platform. 
 This is an ecommerce Boutique built with GCP, Tailwind CSS V3, Tanstack Query and a Postgres database. Powered by AWS. It features:-
@@ -43,7 +43,7 @@ My 2nd deployed Application is also a React frontend that consumes a REST Framew
 This Ecommerce API is powered by AWS, Redis-Cache and PostgreSql. Upgraded with NEXT.JS 15 and Typescript.
 This full-stack web application's link is:-
 
-https://shop-front.up.railway.app
+https://next-djangobnbx.up.railway.app
 
 My MERN Dockerized application deployed using Kubernetes and orchestrated with Minikube:-
 
