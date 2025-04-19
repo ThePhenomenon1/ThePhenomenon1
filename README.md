@@ -41,7 +41,7 @@ https://www.bon-evani.com
 
 My 2nd deployed Application is a NEXT.JS frontend that consumes a REST Framework API. 
 This Ecommerce API is powered by Typescript, AWS, Redis-Cache and Postgres.
-This full-stack web application's link is:-
+This functional AirBnb clone's link is:-
 
 https://next-djangobnbx.up.railway.app
 
