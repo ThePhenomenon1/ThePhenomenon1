@@ -7,7 +7,7 @@
 3 years and 10 months ago, July 2021, I didn't know Python. Over 12 900 hours of computer programming - 1 381 days later - I am a Python/JavaScript Full-Stack Developer.
 
 I have deployed my React/DRF Django Application, on the powerful Railway cloud platform. 
-This is an ecommerce Boutique built with GCP, Tailwind CSS V3, Tanstack Query and a Postgres database. Powered by AWS. It features:-
+This is an ecommerce Boutique built with GCP, Tailwind CSS, Tanstack Query and a Postgres database. Powered by AWS. It features:-
 
 <br>
 * EMAIL AUTHENTICATION (Django Allauth) and JWT.
