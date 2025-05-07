@@ -43,7 +43,7 @@ My 2nd deployed Application is a NEXT.JS frontend that consumes a REST Framework
 This Ecommerce API is powered by Typescript, AWS, Redis-Cache and Postgres.
 Orchestrated with Docker-Compose, this functional AirBnb clone's link is:-
 
-https://next-djangobnbx.up.railway.app
+https://next-djangobnb.up.railway.app
 
 My MERN Dockerized application deployed using Kubernetes and orchestrated with Minikube:-
 
