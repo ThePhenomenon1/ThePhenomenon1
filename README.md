@@ -39,7 +39,14 @@ The link to this full-stack enterprise ecommerce .COM:-
 
 https://www.bon-evani.com
 
-My 2nd deployed Application is a NEXT.JS frontend that consumes a REST Framework API. 
+My second deployed Application is a NEXT.JS frontend that consumes a REST Framework API.
+It features Google OAUTH email social login and a robust User Review system.
+This Ecommerce API is powered by Typescript, AWS and Postgres.
+Orchestrated with Docker-Compose, this online platform's link is:-
+
+[https://next-djangobnb.up.railway.app](https://next-dj-ecommerce.up.railway.app/)
+
+My third deployed Application is a Next.js frontend that consumes a REST Framework API. 
 This Ecommerce API is powered by Typescript, AWS, Redis-Cache and Postgres.
 Orchestrated with Docker-Compose, this functional AirBnb clone's link is:-
 
