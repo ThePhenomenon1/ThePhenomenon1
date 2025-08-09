@@ -55,6 +55,10 @@ https://github.com/ThePhenomenon1/kubernetes-mern.git
 
 My tech stack includes:-
 
+Langchain,
+Websockets,
+Chatbots,
+Django-Channels,
 Generative AI,
 Docker,
 Kubernetes,
@@ -64,10 +68,8 @@ Node.js,
 Typescript,
 Tanstack,
 Sklearn,
+Google Cloud,
 AWS,
-GCP,
-WebSockets,
-Django-Channels,
 REST Framework,
 Django Ninja,
 Conda,
