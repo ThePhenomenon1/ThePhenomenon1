@@ -10,6 +10,9 @@ I have deployed my React/DRF Django Application, on the powerful Railway cloud p
 This is an ecommerce Boutique built with GCP, Tailwind CSS, Tanstack Query and a Postgres database. Powered by AWS. It features:-
 
 <br>
+* A.I. ASSISTANT and INSTANT REALTIME MESSAGING BOARD (Langchain, Websockets, Channels).
+
+<br>
 * EMAIL AUTHENTICATION (Django Allauth) and JWT.
 
 <br>
@@ -26,12 +29,6 @@ This is an ecommerce Boutique built with GCP, Tailwind CSS, Tanstack Query and a
 
 <br>
 * CLIENT DASHBOARDS and ADMIN DASHBOARD (Customer Service Management and SKUs).
-
-<br>
-* BLOG functionality and REALTIME CHAT integration.
-
-<br>
-* AUTORESPONDER integration (Mailchimp, AI).
 
 \
 \
