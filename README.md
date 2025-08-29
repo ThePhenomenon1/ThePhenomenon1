@@ -69,7 +69,6 @@ Tanstack,
 Google Cloud,
 AWS,
 REST Framework,
-Django Ninja,
 Conda,
 Selenium,
 Git.
