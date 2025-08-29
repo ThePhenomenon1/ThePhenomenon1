@@ -3,16 +3,16 @@
 
 # ThePhenomenon1
 
-4 years and one month ago, July 2021, I didn't know Python. Over 14 100 hours of computer programming - 1 499 days later - I am a Python/JavaScript Full-Stack Developer.
+4 years and one month ago, July 2021, I didn't know Python. Over 14 100 hours of computer programming - 1 500 days later - I am a Python/JavaScript Full-Stack Developer.
 
 I have deployed my React/DRF Django Application, on the powerful Railway cloud platform. 
-This is an ecommerce Boutique built with Langchain, Google Cloud, Tailwind, Tanstack Query and PostgreSql. Powered by AWS and A.I. Chatbots, it features:-
+This is an ecommerce Boutique built with RAG, Langchain, Google Cloud, Tailwind, Tanstack Query and PostgreSql. Powered by AWS and A.I. Chatbots, it features:-
 
 <br>
-* A.I. ASSISTANT and INSTANT REALTIME MESSAGING BOARD (Langchain, Websockets, Channels).
+* A.I. ASSISTANT and INSTANT REALTIME MESSAGING BOARD (Retrieval Augmented Generation, Langchain, Websockets, Channels).
 
 <br>
-* EMAIL AUTHENTICATION (Django Allauth) and JWT.
+* EMAIL AUTHENTICATION (Google OAUTH email social login, Django Allauth) and JWT.
 
 <br>
 * WEB ANALYTICS (Business lead generation reports).
@@ -37,7 +37,7 @@ https://www.bon-evani.com
 
 My second deployed Application is a NEXT.JS frontend that consumes a REST Framework API.
 It features Google OAUTH email social login and a robust Customer Review system.
-This Ecommerce API is powered by Typescript, AWS, GCP and Postgres.
+This Ecommerce API is powered by RAG, Langchain, Typescript, AWS, GCP and Postgres.
 Orchestrated with Docker-Compose, this online platform's link is:-
 
 https://next-dj-ecommerce.up.railway.app
@@ -54,19 +54,18 @@ https://github.com/ThePhenomenon1/kubernetes-mern.git
 
 My tech stack includes:-
 
+RAG,
 Langchain,
 Websockets,
 Chatbots,
-Django-Channels,
-Generative AI,
+Channels,
+LLMs,
 Docker,
 Kubernetes,
 React,
 Next.js,
-Node.js,
 Typescript,
 Tanstack,
-Sklearn,
 Google Cloud,
 AWS,
 REST Framework,
