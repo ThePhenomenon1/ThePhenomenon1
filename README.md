@@ -3,7 +3,7 @@
 
 # ThePhenomenon1
 
-4 years 6 months ago, July 2021, I didn't know Python. Over 15 300 hours of computer programming - 1 613 days later - I am a Python/JavaScript Full-Stack Developer.
+4 years 6 months ago, July 2021, I didn't know Python. Over 15 300 hours of computer programming - 1 614 days later - I am a Python/JavaScript Full-Stack Developer.
 
 I have deployed my React/DRF Django Application, on the powerful Railway cloud platform. 
 This is an ecommerce Boutique built with RAG, Langchain, Google Cloud, Tailwind, Tanstack Query and PostgreSql. Powered by AWS and A.I. Infrastructure, it features:-
