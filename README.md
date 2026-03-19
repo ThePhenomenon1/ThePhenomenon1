@@ -5,7 +5,7 @@
 
 4 years 9 months ago, July 2021, I didn't know Python. Over 16 100 hours of computer programming - 1 702 days later - I am a Python/JavaScript Full-Stack Developer.
 
-I have deployed to the cloud my Video-Sharing, Hailuo-like Video and Image Generation prototype, Ahatube. 
+I have deployed to the cloud my Video-Sharing, Hailuo-like Video and Image Generation prototype, AhaTube. 
 
 This bleeding-edge business platform is built with Next.js 16, React 19, Drizzle ORM, tRPC, Mux, Tailwind and PostgreSql. It features:-
 
@@ -59,7 +59,7 @@ This bleeding-edge business platform is built with Next.js 16, React 19, Drizzle
 
 \
 \
-The link to this A.I. Infrastructure platform:-
+The link to this A.I. Infrastructure platform AhaTube:-
 
 https://ahatube.up.railway.app
 
