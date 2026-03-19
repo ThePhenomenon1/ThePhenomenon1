@@ -16,49 +16,46 @@ This bleeding-edge business platform is built with Next.js 16, React 19, Drizzle
 * ADMIN DASHBOARD (Revenue Stats, Moderation and AI Analytics).
 
 <br>
-* Advanced video player with quality controls
+* Advanced Video Player with quality controls
 
 <br>
-* Real-time video processing with Mux
+* Real-time Video processing with Mux
 
 <br>
-* Automatic video transcription
+* Automatic Video Transcription
 
 <br>
-* Smart thumbnail generation
+* Smart Thumbnail generation
 
 <br>
-* AI-powered title and description generation
+* AI-powered Title and Description generation
 
 <br>
-* Creator Studio with metrics
+* Creator Studio with Metrics
 
 <br>
-* Custom playlist management
+* Custom Playlist management
 
 <br>
 * Responsive design across devices
 
 <br>
-* Multiple content feeds
+* Multiple Content feeds
 
 <br>
-* Interactive comment system
+* Interactive Comment system
 
 <br>
-* Like and subscription system
+* Like and Subscription system
 
 <br>
-* Watch history tracking
+* Watch history Tracking
 
 <br>
 * Authentication system
 
 <br>
-* Module-based architecture
-
-<br>
-* tRPC for type-safe APIs
+* tRPC for Type-safe APIs
 
 \
 \
@@ -66,7 +63,7 @@ The link to this A.I. Infrastructure platform:-
 
 https://ahatube.up.railway.app
 
-I have also deployed my React/DRF Django Application, on the powerful Railway cloud platform. 
+I have also deployed my React/DRF Django Application. 
 This is an ecommerce Boutique built with RAG, Langchain, Google Cloud, Tailwind, Tanstack Query and PostgreSql. Powered by AWS and A.I. Infrastructure, it features:-
 
 <br>
