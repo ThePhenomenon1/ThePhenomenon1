@@ -3,16 +3,18 @@
 
 # ThePhenomenon1
 
-4 years 9 months ago, July 2021, I didn't know Python. Over 16 100 hours of computer programming - 1 701 days later - I am a Python/JavaScript Full-Stack Developer.
+4 years 9 months ago, July 2021, I didn't know Python. Over 16 100 hours of computer programming - 1 702 days later - I am a Python/JavaScript Full-Stack Developer.
 
-I have deployed to the cloud my Video-Sharing, Hailuo-like Video and Image generation prototype, Ahatube.  
-It features:-
+I have deployed to the cloud my Video-Sharing, Hailuo-like Video and Image Generation prototype, Ahatube. 
+
+This platform is built with Next.js, React, Drizzle ORM, tRPC, Mux, Tailwind and PostgreSql. It features:-
 
 <br>
-* MONETIZATION (Granular Video and Image gneration metering with Polar.sh as well as Google AdSense).
+* MONETIZATION (Granular Video and Image GEneration metering with Polar.sh as well as Google AdSense).
+
 \
 \
-The link to this A.I. Infracstructure platform:-
+The link to this A.I. Infrastructure platform:-
 
 https://ahatube.up.railway.app
 
@@ -52,16 +54,6 @@ This Ecommerce API is powered by RAG, Langchain, Typescript, AWS, GCP and Postgr
 Orchestrated with Docker-Compose, this online platform's link is:-
 
 https://next-dj-ecommerce.up.railway.app
-
-A fourth deployed Application is a Next.js frontend that consumes a REST Framework API. 
-This Ecommerce API is powered by Typescript, AWS, Redis-Cache and Postgres.
-This Dockerized, functional AirBnb clone's link is:-
-
-https://next-djangobnb.up.railway.app
-
-My MERN Dockerized application deployed using Kubernetes and orchestrated with Minikube:-
-
-https://github.com/ThePhenomenon1/kubernetes-mern.git
 
 My tech stack includes:-
 
