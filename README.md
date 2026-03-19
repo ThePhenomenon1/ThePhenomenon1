@@ -6,12 +6,13 @@
 4 years 9 months ago, July 2021, I didn't know Python. Over 16 100 hours of computer programming - 1 701 days later - I am a Python/JavaScript Full-Stack Developer.
 
 I have deployed to the cloud my Video-Sharing, Hailuo-like Video and Image generation prototype, Ahatube.  
-This is an ecommerce Boutique built with RAG, Langchain, Google Cloud, Tailwind, Tanstack Query and PostgreSql. Powered by AWS and A.I. Infrastructure, it features:-
+It features:-
+
 <br>
 * MONETIZATION (Granular Video and Image gneration metering with Polar.sh as well as Google AdSense).
 \
 \
-The link to this full-stack enterprise ecommerce .COM:-
+The link to this A.I. Infracstructure platform:-
 
 https://ahatube.up.railway.app
 
