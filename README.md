@@ -7,10 +7,10 @@
 
 I have deployed to the cloud my Video-Sharing, Hailuo-like Video and Image Generation prototype, Ahatube. 
 
-This platform is built with Next.js, React, Drizzle ORM, tRPC, Mux, Tailwind and PostgreSql. It features:-
+This bleeding-edge business platform is built with Next.js 16, React 19, Drizzle ORM, tRPC, Mux, Tailwind and PostgreSql. It features:-
 
 <br>
-* MONETIZATION (Granular Video and Image GEneration metering with Polar.sh as well as Google AdSense).
+* MONETIZATION (Granular Video and Image Generation metering with Polar.sh as well as Google AdSense).
 
 \
 \
