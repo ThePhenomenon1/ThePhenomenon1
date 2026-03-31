@@ -55,7 +55,7 @@ This bleeding-edge business platform is built with Next.js 16, React 19, Drizzle
 * Authentication system
 
 <br>
-* tRPC for Type-safe APIs
+* MULIT-TENANCY and tRPC for Type-safe APIs
 
 \
 \
