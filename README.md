@@ -10,7 +10,7 @@ I have deployed to the cloud my Video-Sharing, Hailuo-like Video & Image Generat
 This bleeding-edge business platform is built with Next.js 16, React 19, Drizzle ORM, tRPC, FastApi, Mux, Tailwind and PostgreSql. It features:-
 
 <br>
-* MONETIZATION (Granular Video and Image Generation metering with Polar.sh as well as Google AdSense integration).
+* MONETIZATION (Granular Video, Image Generation and Voice Generation metering with Polar.sh as well as Google AdSense integration).
 
 <br>
 * ADMIN DASHBOARD (Revenue Stats, Moderation and AI Analytics).
@@ -20,6 +20,9 @@ This bleeding-edge business platform is built with Next.js 16, React 19, Drizzle
 
 <br>
 * Real-time Video processing with Mux
+
+<br>
+* Real-time Voice processing (Hugging Face and FastApi).
 
 <br>
 * Automatic Video Transcription
