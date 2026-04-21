@@ -7,7 +7,7 @@
 
 I have deployed to the cloud my Video-Sharing, Hailuo-like Video & Image Generation and Voice Generation infrastructure, AhaTube. 
 
-This bleeding-edge business platform is built with Next.js 16, React 19, Drizzle ORM, tRPC, FastApi, Mux, Tailwind and PostgreSql. It features:-
+This bleeding-edge business platform is built with Next.js 16, React 19, Drizzle ORM, tRPC, FastApi, Mux, Tailwind and Postgres. It features:-
 
 <br>
 * MONETIZATION (Granular Video, Image Generation and Voice Generation metering with Polar.sh as well as Google AdSense integration).
