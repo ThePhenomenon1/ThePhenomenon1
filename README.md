@@ -3,7 +3,7 @@
 
 # ThePhenomenon1
 
-5 years ago, July 2021, I didn't know Python. Over 17 200 hours of computer programming - 1 825 days later - I am a Python/JavaScript Full-Stack Developer.
+5 years ago, July 2021, I didn't know Python. Over 17 200 hours of computer programming - 1 826 days later - I am a Python/JavaScript Full-Stack Developer.
 
 I have deployed to the cloud my Video-Streaming, Hailuo-like Video & Image Generation and Voice Generation infrastructure, AhaTube. 
 
