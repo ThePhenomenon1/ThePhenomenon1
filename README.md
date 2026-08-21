@@ -98,13 +98,6 @@ The link to this full-stack enterprise ecommerce .COM:-
 
 https://www.bon-evani.com
 
-A third deployed Application is a NEXT.JS frontend that consumes a REST Framework API.
-It features Google OAUTH email social login and a robust Customer Review system.
-This Ecommerce API is powered by RAG, Langchain, Typescript, AWS, GCP and Postgres.
-Orchestrated with Docker-Compose, this online platform's link is:-
-
-https://next-dj-ecommerce.up.railway.app
-
 My tech stack includes:-
 
 RAG,
