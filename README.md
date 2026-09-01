@@ -3,7 +3,7 @@
 
 # ThePhenomenon1
 
-5 years 1 month ago, July 2021, I didn't know Python. Over 17 600 hours of computer programming - 1 864 days later - I am a Python/JavaScript Full-Stack Developer.
+5 years 1 month ago, July 2021, I didn't know Python. Over 17 600 hours of computer programming - 1 865 days later - I am a Python/JavaScript Full-Stack Developer.
 
 Building at https://www.myroots.ug.
 
