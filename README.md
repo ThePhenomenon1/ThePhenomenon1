@@ -7,6 +7,8 @@
 
 Building at https://www.myroots.ug.
 
+Architecting at https://www.intelligent-data-portal.site.
+
 I have also deployed to the cloud my Video-Streaming, Hailuo-like Video & Image Generation and Voice Generation infrastructure, AhaTube. 
 
 This bleeding-edge business platform is built with Next.js 16, React 19, Drizzle ORM, tRPC, FastApi, Mux, Tailwind and Postgres. It features:-
