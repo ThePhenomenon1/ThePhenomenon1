@@ -68,35 +68,6 @@ The link to this A.I. Infrastructure platform AhaTube:-
 
 https://ahatube.up.railway.app
 
-I have also deployed my React/DRF Django Application. 
-This is an ecommerce Boutique built with RAG, Langchain, Google Cloud, Tailwind, Tanstack Query and PostgreSql. Powered by AWS and A.I. Infrastructure, it features:-
-
-<br>
-* A.I. ASSISTANT and INSTANT REALTIME MESSAGING BOARD (Retrieval Augmented Generation, Langchain, Websockets, Channels).
-
-<br>
-* EMAIL AUTHENTICATION (Google OAUTH email social login, Django Allauth and JWT).
-
-<br>
-* WEB ANALYTICS (Business lead generation reports).
-
-<br>
-* PAYMENT API (Paypal, Visa, Major credit cards).
-
-<br>
-* SEARCH ENGINE OPTIMIZATION (SEO data modeling).
-
-<br>
-* SHOPPING CART and CHECKOUT functionality.
-
-<br>
-* CLIENT DASHBOARDS and ADMIN DASHBOARD (Customer Service Management and SKUs).
-
-\
-\
-The link to this full-stack enterprise ecommerce .COM:-
-
-https://www.bon-evani.com
 
 My tech stack includes:-
 
